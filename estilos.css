@@ -86,15 +86,17 @@ header .textos h3{
 .main .Acerca-de .foto{
 width: 80%;
  position: absolute;
- left: 0;
- top:-50px;
+ left: 150px;
+ top: 12px;
 z-index: 0;
-box-shadow: 0px 0px 15px rgba(0, 0, 0,.35);
+
 }
 
 .main .Acerca-de .foto img{
     vertical-align: top;
-    width: 100%;
+    width: 40%;
+    height: 100%;
+    box-shadow: 0px 0px 25px rgba(0, 0, 0,.35);
 }
 
 .main .Acerca-de article{
